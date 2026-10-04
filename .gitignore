@@ -1,0 +1,102 @@
+# ==============================
+# Agent Configuration
+# ==============================
+.agents/
+
+# ==============================
+# Python
+# ==============================
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# ==============================
+# Virtual Environment
+# ==============================
+venv/
+env/
+.venv/
+ENV/
+
+# ==============================
+# Environment Variables / Secrets
+# ==============================
+.env
+.env.*
+!.env.example
+
+# ==============================
+# Jupyter Notebook
+# ==============================
+.ipynb_checkpoints/
+
+# ==============================
+# IDE / Editors
+# ==============================
+.vscode/
+.idea/
+
+# ==============================
+# ML / Experiment Files
+# ==============================
+mlruns/
+wandb/
+runs/
+logs/
+*.log
+
+# ==============================
+# Data
+# ==============================
+*.csv
+*.xlsx
+*.xls
+*.parquet
+
+# SQLite
+*.db
+*.sqlite
+*.sqlite3
+
+# ==============================
+# Model Files
+# ==============================
+*.pkl
+*.pickle
+*.joblib
+*.h5
+*.keras
+*.pt
+*.pth
+*.onnx
+
+# ==============================
+# Streamlit
+# ==============================
+.streamlit/secrets.toml
+
+# ==============================
+# OS
+# ==============================
+.DS_Store
+Thumbs.db
+desktop.ini
+
+
+
+venv/
+.venv/
+__pycache__/
+*.pyc
+.env
+.idea/
+.backend/.agents/
+D:\CodeAIML\python\project\Invoice Intelligence Machine Learning\backend\.agents
+./project\Invoice Intelligence Machine Learning\backend\.agents
+.venv-1/
+./projectn/Invoice Intelligence Machine Learning/backend/.agents/
+./agent/
+
+Data/inventory.db
+./Data/inventory.db
