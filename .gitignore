@@ -62,14 +62,14 @@ logs/
 # ==============================
 # Model Files
 # ==============================
-*.pkl
-*.pickle
-*.joblib
-*.h5
-*.keras
-*.pt
-*.pth
-*.onnx
+# *.pkl
+# *.pickle
+# *.joblib
+# *.h5
+# *.keras
+# *.pt
+# *.pth
+# *.onnx
 
 # ==============================
 # Streamlit
